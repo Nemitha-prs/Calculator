@@ -1,2 +1,7 @@
-# Calculator
-This is a simple calculator
+# calculator
+ - this is a simple calculator
+
+
+
+
+code ownner : Nemitha Prabashwara
